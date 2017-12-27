@@ -1,0 +1,28 @@
+div {
+  margin: auto;
+  width: 800px;
+  height: 800px;
+
+text-align: center;
+
+
+ }
+
+h1 {
+  text-align: center;
+font-size: 36px;
+color: blue;
+
+}
+
+#Github {
+color: red;
+
+
+}
+
+.About {
+color: green;
+
+
+}
